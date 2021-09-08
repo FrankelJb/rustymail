@@ -1,6 +1,8 @@
-# smtpbis
+# rustymail
 
 [![crates.io](http://meritbadge.herokuapp.com/smtpbis)](https://crates.io/crates/smtpbis)
+
+Forked from the [smtpbis](https://github.com/jothan/smtpbis) library.
 
 Extensible SMTP server library
 
